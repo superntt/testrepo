@@ -12,4 +12,4 @@ This is a training repository.
 - R
 - Git
 - Python
--SWL
+- SQL
