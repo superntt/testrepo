@@ -6,3 +6,10 @@ This is a training repository.
 1. Git
 2. Github  
 3. Data portfolio
+
+# Important Software
+
+- R
+- Git
+- Python
+-SWL
